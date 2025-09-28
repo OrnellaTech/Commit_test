@@ -7,3 +7,6 @@ def TOUT_EN_MAJUSCULES(x, y):
 def espace_et_tab():
     print("Hey")
     print("World")
+
+
+# pre-commit run --all-files
